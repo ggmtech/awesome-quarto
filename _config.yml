@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Gopal Kumar homepage
+description: Home page for CV and presentations
+@import "{{ site.theme }}";
